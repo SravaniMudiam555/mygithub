@@ -1,0 +1,13 @@
+srr_wcpdec2p      
+wc990613FL   - diffrence found in mapping anf fields
+srr_wcpdec2p 
+FL-wc990613  -diffrence i  mapping and fields 
+srr_wcpdec2p
+srr_njdec    -diffrence found in mapping and fields 
+WCEIP SCHD1N_01(all froms diffrence is company) and state 
+decpagesNIS(2 froms )-company name
+DEC PAGEPAS(f froms)-company name
+DEC PAGEPES(f froms)-company name
+DEC PAGEPFL(f froms)-company name
+proposal(4  froms)-all are diffrent.
+
